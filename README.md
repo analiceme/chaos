@@ -1,4 +1,8 @@
-# Mapa76::Core [![Build Status](https://secure.travis-ci.org/hhba/mapa76-core.png?branch=master)](https://travis-ci.org/hhba/mapa76-core) [![Code Climate](https://codeclimate.com/badge.png)](https://codeclimate.com/github/hhba/mapa76-core) #
+# Analice.me::Core
+
+[![Binstar Badge](https://binstar.org/malev/chaos/badges/build.svg)](https://binstar.org/malev/chaos/builds)
+[![Binstar Badge](https://binstar.org/malev/chaos/badges/version.svg)](https://binstar.org/malev/chaos)
+[![Binstar Badge](https://binstar.org/malev/chaos/badges/license.svg)](https://binstar.org/malev/chaos)
 
 Core models and libs of the [Mapa76 project](http://mapa76.info/) (in spanish).
 

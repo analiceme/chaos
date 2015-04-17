@@ -1,0 +1,17 @@
+package: chaos
+
+platform:
+  - linux-64
+
+install:
+  - conda config --add channels tswicegood
+  - conda install ruby==2.1.1
+  - gem install bundler
+  - bundle install
+
+test:
+  - bundle exec rake
+
+script:
+  - echo "This is my binstar build!"
+
